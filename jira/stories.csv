@@ -1,4 +1,0 @@
-Issue Type,Summary,Description,Priority,Story point estimate,Status
-Story,Browse food menu,"As a customer, I want to browse the menu so I can discover available food. Acceptance: item names and prices are displayed.",High,3,Done
-Story,Add items to cart,"As a customer, I want to add menu items to my cart so I can review my order. Acceptance: selected item and quantity appear in cart.",High,5,In Progress
-Story,Place an order,"As a customer, I want to place my cart order so the restaurant can prepare it. Acceptance: order confirmation and total are returned.",Highest,8,To Do
